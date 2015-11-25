@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1391968329891.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD5432D3",
+    "lastKnownWriteTime" : 32651513914720368,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "meuse",
+        "contentUrl" : "content?title=meuse&file=efeab06e845a4af58ba1988a332efaf2.htm",
+        "displayedObservations" : 155,
+        "displayedVariables" : 15,
+        "totalObservations" : 155,
+        "variables" : 14
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

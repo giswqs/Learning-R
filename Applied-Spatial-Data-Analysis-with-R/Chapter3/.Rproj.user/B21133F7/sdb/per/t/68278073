@@ -1,0 +1,17 @@
+{
+    "contents" : "library(sp)\ndata(meuse)\nView(meuse)\ncoordinates(meuse) <- c(\"x\",\"y\")\nplot(meuse)\ntitle(\"points\")\ncc <- coordinates(meuse)\nm.sl <- SpatialLines(list(Lines(Line(cc)),\"line1\"))\n",
+    "created" : 1391968293951.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "623505193",
+    "id" : "68278073",
+    "lastKnownWriteTime" : 1391969665,
+    "path" : "D:/Dropbox/Research/Codes/R/SpatialData/Chapter3/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

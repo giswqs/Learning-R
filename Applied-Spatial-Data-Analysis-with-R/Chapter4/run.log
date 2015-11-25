@@ -1,0 +1,373 @@
+Archive:  hello_bundle.zip
+  inflating: data1964al.xy           
+  inflating: hello_mod.R             
+Loading required package: sp
+Checking rgeos availability: TRUE
+rgdal: version: 0.8-11, (SVN revision 479M)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.10.1, released 2013/08/26
+Path to GDAL shared files: /usr/local/share/gdal
+Loaded PROJ.4 runtime: Rel. 4.8.0, 6 March 2012, [PJ_VERSION: 480]
+Path to PROJ.4 shared files: (autodetected)
+Archive:  cm_bundle.zip
+  inflating: 70042108.tif            
+  inflating: auck_el1.RData          
+  inflating: auck_el2.RData          
+  inflating: auck_gshhs.RData        
+  inflating: auckland_mapgen.dat     
+  inflating: cm_mod.R                
+  inflating: CRAN051001a.txt         
+ extracting: high.RData              
+  inflating: seamap105_mod.csv       
+  inflating: state.sat.data_mod.txt  
+Error in validityMethod(object) : 
+  Geographical CRS given to non-conformant data: 370  95
+Error in SpatialPointsDataFrame(CRAN_mat, CRAN_df1, proj4string = llCRS,  : 
+  row.names of data and coords do not match
+Checking rgeos availability: TRUE
+Loading required package: rgeos
+rgeos version: 0.3-1, (SVN revision 416)
+ GEOS runtime version: 3.4.2-CAPI-1.8.2 r3921 
+ Polygon checking: TRUE 
+
+Error in SpatialPolygonsDataFrame(state.sp, sat1) : 
+  row.names of data and Polygons IDs do not match
+rgdal: version: 0.8-11, (SVN revision 479M)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.10.1, released 2013/08/26
+Path to GDAL shared files: /usr/local/share/gdal
+Loaded PROJ.4 runtime: Rel. 4.8.0, 6 March 2012, [PJ_VERSION: 480]
+Path to PROJ.4 shared files: (autodetected)
+Archive:  vis_bundle.zip
+  inflating: vis_mod.R               
+Checking rgeos availability: TRUE
+rgdal: version: 0.8-11, (SVN revision 479M)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.10.1, released 2013/08/26
+Path to GDAL shared files: /usr/local/share/gdal
+Loaded PROJ.4 runtime: Rel. 4.8.0, 6 March 2012, [PJ_VERSION: 480]
+Path to PROJ.4 shared files: (autodetected)
+
+Attaching package: 'latticeExtra'
+
+The following object is masked from 'package:ggplot2':
+
+    layer
+
+Archive:  die_bundle.zip
+  inflating: 70042108.tif            
+  inflating: die_mod.R               
+  inflating: fires_120104.dbf        
+  inflating: fires_120104.prj        
+  inflating: fires_120104.shp        
+  inflating: fires_120104.shx        
+ extracting: geohub.RData            
+ extracting: getosm.RData            
+  inflating: osmar.RData             
+  inflating: osm_bergen_120105.tif   
+  inflating: RgoogleMaps.RData       
+  inflating: scot.dbf                
+  inflating: scot.shp                
+  inflating: scot.shx                
+  inflating: scotland.dat            
+Loading required package: sp
+rgdal: version: 0.8-11, (SVN revision 479M)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.10.1, released 2013/08/26
+Path to GDAL shared files: /usr/local/share/gdal
+Loaded PROJ.4 runtime: Rel. 4.8.0, 6 March 2012, [PJ_VERSION: 480]
+Path to PROJ.4 shared files: (autodetected)
+Checking rgeos availability: TRUE
+Loading required package: Matrix
+Loading required package: lattice
+Loading required package: boot
+
+Attaching package: 'boot'
+
+The following object is masked from 'package:lattice':
+
+    melanoma
+
+Loading required package: MASS
+rgeos version: 0.3-1, (SVN revision 416)
+ GEOS runtime version: 3.4.2-CAPI-1.8.2 r3921 
+ Polygon checking: TRUE 
+
+Loading required package: XML
+Loading required package: RCurl
+Loading required package: bitops
+Loading required package: gtools
+
+Attaching package: 'gtools'
+
+The following object is masked from 'package:boot':
+
+    inv.logit, logit
+
+Loading required package: geosphere
+
+Attaching package: 'osmar'
+
+The following object is masked from 'package:utils':
+
+    find
+
+Warning messages:
+1: In `proj4string<-`(`*tmp*`, value = <S4 object of class "CRS">) :
+  A new CRS was assigned to an object with an existing CRS:
++init=epsg:4230 +towgs84=-87,-96,-120,0,0,0,0 +proj=longlat +ellps=intl +no_defs
+without reprojecting.
+For reprojection, use function spTransform in package rgdal
+2: statistics not supported by this driver 
+3: statistics not supported by this driver 
+4: statistics not supported by this driver 
+Warning 1: Unable to save auxilary information in /tmp/RtmpqN2Ecm/fslSoil.tif.aux.xml.
+Archive:  cm2_bundle.zip
+  inflating: L7_ETM8s.tif            
+  inflating: L7_ETMs.tif             
+  inflating: cm2_mod.R               
+  inflating: olinda1.dbf             
+  inflating: olinda1.prj             
+  inflating: olinda1.shp             
+  inflating: olinda1.shx             
+  inflating: olinda_dem_utm25s.tif   
+  inflating: stream.dbf              
+  inflating: stream.prj              
+  inflating: stream.shp              
+  inflating: stream.shx              
+Loading required package: lattice
+rgeos version: 0.3-1, (SVN revision 416)
+ GEOS runtime version: 3.4.2-CAPI-1.8.2 r3921 
+ Polygon checking: TRUE 
+
+Loading required package: sp
+rgdal: version: 0.8-11, (SVN revision 479M)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.10.1, released 2013/08/26
+Path to GDAL shared files: /usr/local/share/gdal
+Loaded PROJ.4 runtime: Rel. 4.8.0, 6 March 2012, [PJ_VERSION: 480]
+Path to PROJ.4 shared files: (autodetected)
+Loading required package: Matrix
+Checking rgeos availability: TRUE
+Archive:  std_bundle.zip
+  inflating: ECDoveBBS1986_2003.dat  
+  inflating: ECDovelatlon.dat        
+  inflating: std_mod.R               
+Loading required package: zoo
+
+Attaching package: 'zoo'
+
+The following object is masked from 'package:base':
+
+    as.Date, as.Date.numeric
+
+Checking rgeos availability: TRUE
+Loading required package: bdsmatrix
+
+Attaching package: 'bdsmatrix'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+Loading required package: nlme
+Loading required package: Formula
+Loading required package: MASS
+Loading required package: sandwich
+Archive:  sppa_bundle.zip
+  inflating: spasthma.dbf            
+  inflating: spasthma.shp            
+  inflating: spasthma.shx            
+  inflating: spbdry.dbf              
+  inflating: spbdry.shp              
+  inflating: spbdry.shx              
+  inflating: sppa_mod.R              
+  inflating: sproads.dbf             
+  inflating: sproads.shp             
+  inflating: sproads.shx             
+  inflating: spsrc.dbf               
+  inflating: spsrc.shp               
+  inflating: spsrc.shx               
+Loading required package: mgcv
+This is mgcv 1.7-24. For overview type 'help("mgcv-package")'.
+Loading required package: deldir
+deldir 0.0-22
+
+spatstat 1.32-0     (nickname: 'Logistical Nightmare') 
+For an introduction to spatstat, type 'beginner'
+Loading required package: sp
+Checking rgeos availability: TRUE
+rgdal: version: 0.8-11, (SVN revision 479M)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.10.1, released 2013/08/26
+Path to GDAL shared files: /usr/local/share/gdal
+Loaded PROJ.4 runtime: Rel. 4.8.0, 6 March 2012, [PJ_VERSION: 480]
+Path to PROJ.4 shared files: (autodetected)
+
+Spatial Point Pattern Analysis Code in S-Plus
+ 
+ Version 2 - Spatial and Space-Time analysis
+
+Warning message:
+In ppp(XY$x, XY$y, window = W, marks = marx, check = check & needcheck) :
+  data contain duplicated points
+Archive:  geos_bundle.zip
+  inflating: geos_mod.R              
+  inflating: m1m2.R                  
+Loading required package: RColorBrewer
+Loading required package: lattice
+##  Note that several updates of RandomFields are expected during 2011. ##
+##  Please see help("changings") for important changes.                 ##
+
+Loading required package: MASS
+--------------------------------------------------------------
+ Analysis of geostatistical data
+ For an Introduction to geoR go to http://www.leg.ufpr.br/geoR
+ geoR version 1.7-4 (built on 2012-06-29) is now loaded
+--------------------------------------------------------------
+
+Warning messages:
+1: In v.level[(i * n + 1):((i + 1) * n)] = rep(m.name, n) :
+  number of items to replace is not a multiple of replacement length
+2: In v.level[(i * n + 1):((i + 1) * n)] = rep(m.name, n) :
+  number of items to replace is not a multiple of replacement length
+3: In v.level[(i * n + 1):((i + 1) * n)] = rep(m.name, n) :
+  number of items to replace is not a multiple of replacement length
+4: In v.level[(i * n + 1):((i + 1) * n)] = rep(m.name, n) :
+  number of items to replace is not a multiple of replacement length
+5: In v.level[(i * n + 1):((i + 1) * n)] = rep(m.name, n) :
+  number of items to replace is not a multiple of replacement length
+6: In v.level[(i * n + 1):((i + 1) * n)] = rep(m.name, n) :
+  number of items to replace is not a multiple of replacement length
+7: In v.level[(i * n + 1):((i + 1) * n)] = rep(m.name, n) :
+  number of items to replace is not a multiple of replacement length
+Archive:  lat_bundle.zip
+  inflating: NY8_utm18.dbf           
+  inflating: NY8_utm18.prj           
+  inflating: NY8_utm18.shp           
+  inflating: NY8_utm18.shx           
+  inflating: NY8cities.dbf           
+  inflating: NY8cities.prj           
+  inflating: NY8cities.shp           
+  inflating: NY8cities.shx           
+  inflating: NY_nb.gal               
+  inflating: Sy_GeoDa1.GAL           
+  inflating: Sy_GeoDa4.GWT           
+  inflating: TCE.dbf                 
+  inflating: TCE.prj                 
+  inflating: TCE.shp                 
+  inflating: TCE.shx                 
+  inflating: lat_mod.R               
+Loading required package: sp
+rgdal: version: 0.8-11, (SVN revision 479M)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.10.1, released 2013/08/26
+Path to GDAL shared files: /usr/local/share/gdal
+Loaded PROJ.4 runtime: Rel. 4.8.0, 6 March 2012, [PJ_VERSION: 480]
+Path to PROJ.4 shared files: (autodetected)
+Loading required package: Matrix
+Loading required package: lattice
+Error in nb2listw(Sy11_nb, style = "B") : Empty neighbour sets found
+
+Attaching package: 'boot'
+
+The following object is masked from 'package:lattice':
+
+    melanoma
+
+Loading required package: nlme
+Loading required package: splancs
+
+Spatial Point Pattern Analysis Code in S-Plus
+ 
+ Version 2 - Spatial and Space-Time analysis
+
+Loading required package: zoo
+
+Attaching package: 'zoo'
+
+The following object is masked from 'package:base':
+
+    as.Date, as.Date.numeric
+
+Loading required package: locfit
+locfit 1.5-9.1 	 2013-03-22
+Loading required package: maptools
+Checking rgeos availability: TRUE
+Loading required package: quantreg
+Loading required package: SparseM
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+Attaching package: 'coda'
+
+The following object is masked from 'package:splancs':
+
+    thin
+
+Loading required package: fields
+Loading required package: spam
+Loading required package: grid
+Spam version 0.30-1 (2013-08-25) is loaded.
+Type 'help( Spam)' or 'demo( spam)' for a short introduction 
+and overview of this package.
+Help for individual functions is also obtained by adding the
+suffix '.spam' to the function name, e.g. 'help( chol.spam)'.
+
+Attaching package: 'spam'
+
+The following object is masked from 'package:SparseM':
+
+    backsolve, forwardsolve
+
+The following object is masked from 'package:base':
+
+    backsolve, forwardsolve
+
+Loading required package: maps
+This is mgcv 1.7-24. For overview type 'help("mgcv-package")'.
+There were 50 or more warnings (use warnings() to see the first 50)
+Archive:  dismap_bundle.zip
+  inflating: brainNM.RData           
+  inflating: BYM-model.txt           
+  inflating: dismap_INLA.R           
+  inflating: dismap_mod.R            
+  inflating: dismap_WinBUGS.R        
+  inflating: PG-model.txt            
+Loading required package: sp
+Checking rgeos availability: TRUE
+Loading required package: Matrix
+Loading required package: lattice
+Loading required package: boot
+
+Attaching package: 'boot'
+
+The following object is masked from 'package:lattice':
+
+    melanoma
+
+Loading required package: MASS
+Loading required package: BayesXsrc
+Loading required package: colorspace
+Loading required package: mgcv
+This is mgcv 1.7-24. For overview type 'help("mgcv-package")'.
+Loading required package: akima
+rgdal: version: 0.8-11, (SVN revision 479M)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.10.1, released 2013/08/26
+Path to GDAL shared files: /usr/local/share/gdal
+Loaded PROJ.4 runtime: Rel. 4.8.0, 6 March 2012, [PJ_VERSION: 480]
+Path to PROJ.4 shared files: (autodetected)
+Loading required package: zoo
+
+Attaching package: 'zoo'
+
+The following object is masked from 'package:base':
+
+    as.Date, as.Date.numeric
+

@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1392271078942.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3A96EED6",
+    "lastKnownWriteTime" : -1,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "svgm",
+        "contentUrl" : "content?title=svgm&file=63e144c842994e4bb054ce757d215350.htm",
+        "displayedObservations" : 15,
+        "displayedVariables" : 6,
+        "totalObservations" : 15,
+        "variables" : 6
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

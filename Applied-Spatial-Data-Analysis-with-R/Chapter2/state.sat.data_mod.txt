@@ -1,0 +1,54 @@
+oname	vscore	mscore	pc	name
+ala	561	555	9	alabama
+alaska	516	514	50	alaska
+ariz	524	525	34	arizona
+ark	563	556	6	arkansas
+calif	497	514	49	california
+colo	536	540	32	colorado
+conn	510	509	80	connecticut
+dela	503	497	67	delaware
+d.c.	494	478	77	"district of columbia"
+fla	499	498	53	florida
+ga	487	482	63	georgia
+hawaii	482	513	52	hawaii
+idaho	542	540	16	idaho
+ill	569	585	12	illinois
+ind	496	498	60	indiana
+iowa	594	598	5	iowa
+kan	578	576	9	kansas
+ky	547	547	12	kentucky
+la	561	558	8	louisiana
+maine	507	503	68	maine
+md	507	507	65	maryland
+mass	511	511	78	massachusetts
+mich	557	565	11	michigan
+minn	586	598	9	minnesota
+miss	563	548	4	mississippi
+mo	572	572	8	missouri
+mont	545	546	21	montana
+neb	568	571	8	nebraska
+nev	512	517	34	nevada
+nh	520	518	72	"new hampshire"
+nj	498	510	80	"new jersey"
+nm	549	542	12	"new mexico"
+ny	495	502	76	"new york"
+nc	493	493	61	"north carolina"
+nd	594	605	5	"north dakota"
+ohio	534	538	25	"ohio"
+okla	567	560	8	"oklahoma"
+ore	525	525	53	oregon
+pa	498	495	70	pennsylvania
+ri	504	499	70	"rhode island"
+sc	479	475	61	"south carolina"
+sd	585	588	4	"south dakota"
+tenn	559	553	13	tennessee
+texas	494	499	50	texas
+utah	570	568	5	utah
+vt	514	506	70	vermont
+va	508	499	65	virginia
+wash	525	526	52	washington
+wva	527	512	18	"west virginia"
+wis	584	595	7	wisconsin
+wyo	546	551	10	wyoming
+us	505	511	43	usa
+			

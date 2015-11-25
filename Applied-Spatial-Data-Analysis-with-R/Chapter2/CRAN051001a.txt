@@ -1,0 +1,55 @@
+"place" "north" "east" "loc" "long" "lat"
+"Brisbane" "27d28'S" "153d02'E" "Australia" 153.033333333333 -27.4666666666667
+"Melbourne" "37d49'S" "144d58'E" "Australia" 144.966666666667 -37.8166666666667
+"Wien" "48d13'N" "16d20'E" "Austria" 16.3333333333333 48.2166666666667
+"Curitiba" "25d25'S" "49d16'W" "Brazil" -49.2666666666667 -25.4166666666667
+"Viçoza" "20d45'S" "42d52'W" "Brazil" -42.8666666666667 -20.75
+"Rio de Janeiro" "22d54'S" "43d12'W" "Brazil" -43.2 -22.9
+"Piracicaba" "22d43'S" "47d38'W" "Brazil" -47.6333333333333 -22.7166666666667
+"Saõ Paulo" "23d32'S" "46d38'W" "Brazil" -46.6333333333333 -23.5333333333333
+"Burnaby" "49d15'N" "122d57'W" "British Columbia (CAN)" -122.95 49.25
+"Toronto" "43d39'N" "79d23'W" "Ontario (CAN)" -79.3833333333333 43.65
+"Nanjing" "32d03'N" "118d47'E" "China" 118.783333333333 32.05
+"Aalborg" "57d03'N" "9d56'E" "Denmark" 9.93333333333333 57.05
+"Toulouse" "43d36'N" "1d26'E" "France" 1.43333333333333 43.6
+"Lyon" "45d45'N" "4d51'E" "France" 4.85 45.75
+"Paris" "48d52'N" "2d20'E" "France" 2.33333333333333 48.8666666666667
+"Berlin" "52d30'N" "13d22'E" "Germany" 13.3666666666667 52.5
+"Hamburg" "53d33'N" "9d59'E" "Germany" 9.98333333333333 53.55
+"Köln" "50d56'N" "6d59'E" "Germany" 6.98333333333333 50.9333333333333
+"Mainz" "50d01'N" "8d16'E" "Germany" 8.26666666666667 50.0166666666667
+"München" "48d08'N" "11d34'E" "Germany" 11.5666666666667 48.1333333333333
+"Budapest" "47d30'N" "19d05'E" "Hungary" 19.0833333333333 47.5
+"Arezzo" "43d25'N" "11d53'E" "Italy" 11.8833333333333 43.4166666666667
+"Ferrara" "44d50'N" "11d35'E" "Italy" 11.5833333333333 44.8333333333333
+"Milano" "45d28'N" "9d12'E" "Italy" 9.2 45.4666666666667
+"Palermo" "38d07'N" "13d22'E" "Italy" 13.3666666666667 38.1166666666667
+"Aizu" "37d30'N" "139d56'E" "Japan" 139.933333333333 37.5
+"Tsukuba" "36d13'N" "140d06'E" "Japan" 140.1 36.2166666666667
+"Seoul" "37d33'N" "126d58'E" "Korea" 126.966666666667 37.55
+"Lublin" "51d15'N" "22d35'E" "Poland" 22.5833333333333 51.25
+"Wroclaw" "51d06'N" "17d0'E" "Poland" 17 51.1
+"Porto" "41d11'N" "8d36'W" "Portugal" -8.6 41.1833333333333
+"Besnica" "46d02'N" "14d49'E" "Slovenia" 14.8166666666667 46.0333333333333
+"Ljubljana" "46d03'N" "14d31'E" "Slovenia" 14.5166666666667 46.05
+"Cape Town" "33d55'S" "18d22'E" "South Africa" 18.3666666666667 -33.9166666666667
+"Grahamstown" "33d19'S" "26d31'E" "South Africa" 26.5166666666667 -33.3166666666667
+"Madrid" "40d24'N" "3d41'W" "Spain" -3.68333333333333 40.4
+"Zürich" "47d23'N" "8d32'E" "Switzerland" 8.53333333333333 47.3833333333333
+"Bern" "46d57'N" "7d26'E" "Switzerland" 7.43333333333333 46.95
+"Bern" "46d57'N" "7d26'E" "Switzerland" 7.43333333333333 46.95
+"Istanbul" "41d01'N" "28d58'E" "Turkey" 28.9666666666667 41.0166666666667
+"Taichung" "24d09'N" "120d41'E" "Taiwan" 120.683333333333 24.15
+"Taipei" "25d03'N" "121d31'E" "Taiwan" 121.516666666667 25.05
+"Bristol" "51d27'N" "2d35'W" "England" -2.58333333333333 51.45
+"London" "51d30'N" "0d10'W" "England" -0.166666666666667 51.5
+"Berkeley, CA" "37d52'N" "122d16'W" "California" -122.266666666667 37.8666666666667
+"Los Angeles, CA" "34d03'N" "118d15'W" "California" -118.25 34.05
+"Ames, IA" "42d02'N" "93d37'W" "Iowa" -93.6166666666667 42.0333333333333
+"Houghton, MI" "47d07'N" "88d34'W" "Michigan" -88.5666666666667 47.1166666666667
+"St. Louis, MO" "38d38'N" "90d12'W" "Missouri" -90.2 38.6333333333333
+"Chapel Hill, NC" "35d55'N" "79d03'W" "North Carolina" -79.05 35.9166666666667
+"Pittsburgh, PA" "40d26'N" "80d0'W" "Pennsylvania" -80 40.4333333333333
+"Pittsburgh, PA" "40d26'N" "80d0'W" "Pennsylvania" -80 40.4333333333333
+"Dallas, TX" "32d47'N" "96d48'W" "Texas" -96.8 32.7833333333333
+"Seattle, WA" "47d36'N" "122d20'W" "Washington" -122.333333333333 47.6

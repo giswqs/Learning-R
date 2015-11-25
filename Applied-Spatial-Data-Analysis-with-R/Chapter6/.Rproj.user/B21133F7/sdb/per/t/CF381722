@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1392262842333.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CF381722",
+    "lastKnownWriteTime" : 32651513914720368,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "ecd",
+        "contentUrl" : "content?title=ecd&file=3793f5520ddf466eb1bd1f2947bea562.htm",
+        "displayedObservations" : 253,
+        "displayedVariables" : 18,
+        "totalObservations" : 253,
+        "variables" : 18
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

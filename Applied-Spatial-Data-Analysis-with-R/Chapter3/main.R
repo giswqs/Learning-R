@@ -1,0 +1,8 @@
+library(sp)
+data(meuse)
+View(meuse)
+coordinates(meuse) <- c("x","y")
+plot(meuse)
+title("points")
+cc <- coordinates(meuse)
+m.sl <- SpatialLines(list(Lines(Line(cc)),"line1"))

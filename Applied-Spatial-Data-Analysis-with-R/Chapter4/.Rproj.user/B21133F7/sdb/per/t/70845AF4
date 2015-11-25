@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1391976867973.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "70845AF4",
+    "lastKnownWriteTime" : 6879295848207431993,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "EPSG",
+        "contentUrl" : "content?title=EPSG&file=784fecb3afe14db3b2b21c25392eac8f.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 3,
+        "totalObservations" : 4211,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
