@@ -124,7 +124,7 @@ summary.lm(viagraModel2)
 
 
 contrasts(viagraData$dose)<-contr.treatment(3, base = 2)
-viagraModel3<-aov(libido~dose, data = viagraData, )
+viagraModel3<-aov(libido~dose, data = viagraData)
 summary.lm(viagraModel3)
 
 #--------Post Hoc Tests----------
